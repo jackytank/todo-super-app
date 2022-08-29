@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Todo Super App",
+  "name": "Todo Super App Vercel Deploy Example",
   "icons": [
     {
       "src": "favicon.ico",
